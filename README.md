@@ -1,2 +1,4 @@
-# wgninbilincalti
-whyGhosT'un CS'de yaptığı bilinç altını resmeden mapler.
+# WGNİNBİLİNÇALTI
+Neden böyle bir şey yaptım bilmiyorum.
+
+mbb..
